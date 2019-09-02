@@ -1,0 +1,6 @@
+c:\users\datransfer tic-01\source\repos\SevicioWCF\SevicioWCF\bin\SevicioWCF.dll.config
+c:\users\datransfer tic-01\source\repos\SevicioWCF\SevicioWCF\bin\SevicioWCF.dll
+c:\users\datransfer tic-01\source\repos\SevicioWCF\SevicioWCF\bin\SevicioWCF.pdb
+c:\users\datransfer tic-01\source\repos\SevicioWCF\SevicioWCF\obj\Debug\SevicioWCF.csproj.CoreCompileInputs.cache
+c:\users\datransfer tic-01\source\repos\SevicioWCF\SevicioWCF\obj\Debug\SevicioWCF.dll
+c:\users\datransfer tic-01\source\repos\SevicioWCF\SevicioWCF\obj\Debug\SevicioWCF.pdb
